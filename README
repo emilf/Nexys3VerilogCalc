@@ -1,0 +1,4 @@
+A simple implementation of a calculator using the provided IO on a Nexys3 board from Digilent.
+Use toggle switches for binary input, except for the left-most one. That is a hex/dec toggle. Use touch switches for addition, subtraction, multiplication, division and reset.
+
+Excuse the total lack of consistent coding style.
